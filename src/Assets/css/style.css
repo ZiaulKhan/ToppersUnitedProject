@@ -1,0 +1,391 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.topnavFont {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.cartCount {
+  position: absolute;
+  left: 97px;
+  /* top: 2px; */
+  bottom: 32px;
+}
+
+.deal {
+  font-size: 14px;
+  font-family: "DM Sans";
+}
+.shopNow {
+  color: rgb(255, 191, 0);
+  font-size: 12px;
+}
+.shopNow:hover {
+  color: rgb(255, 0, 0);
+}
+
+.bannerText1 {
+  position: absolute;
+  width: 554px;
+  height: 243.38px;
+  left: 148px;
+  top: 242px;
+  font-family: "DM Sans";
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 68px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+.bannerText2 {
+  color: white;
+  position: absolute;
+  width: 554px;
+  /* height: 243.38px; */
+  left: 148px;
+  top: 380px;
+  font-family: "Work Sans";
+  letter-spacing: -0.02em;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 28px;
+  letter-spacing: -0em;
+  text-align: left;
+}
+.bannerBtn {
+  position: absolute;
+  color: white;
+  font-family: "Work Sans";
+  width: 159px;
+  height: 40.28px;
+  left: 150px;
+  top: 430px;
+}
+.bannerBtn:hover {
+  color: rgb(201, 201, 201);
+}
+.shopByItemTitle {
+  font-family: "DM Sans";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.shopByItemTitle2 {
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: "Work Sans";
+  font-style: normal;
+  color: #a0a0a0;
+}
+.shopByItemsDiv {
+  margin-top: 100px;
+}
+.shopByItems {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+.item {
+  margin: 0;
+  padding: 0;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+.bg1 {
+  width: 178px;
+  height: 178px;
+  margin: 0;
+  padding: 0;
+}
+.bg2 {
+  margin-top: 18px !important;
+  width: 159.5px;
+  height: 154px;
+  margin: 0;
+  padding: 0;
+}
+.shoes {
+  position: absolute;
+  width: 100px;
+  height: 127px;
+  margin-top: 25px;
+  margin-left: 39px;
+}
+.bottle {
+  position: absolute;
+  width: 60px;
+  height: 156px;
+  margin-left: 50px;
+  margin-top: 25px;
+}
+.bag {
+  position: absolute;
+  width: 154px;
+  height: 119px;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+.gloves {
+  position: absolute;
+  width: 130px;
+  height: 155px;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+.socks {
+  position: absolute;
+  width: 148px;
+  height: 158px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.ball {
+  position: absolute;
+  width: 122px;
+  height: 97px;
+  margin-left: 20px;
+  margin-top: 45px;
+}
+.leftBtn {
+  position: absolute;
+  left: 10px;
+  margin-left: 55px;
+  margin-top: 75px;
+}
+.leftArrow {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 3px;
+}
+.rightBtn {
+  position: absolute;
+  right: 10px;
+  margin-right: 45px;
+  margin-top: 75px;
+}
+.rightArrow {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+.games {
+  font-family: "DM Sans";
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.whatMakesUsDifferentDiv {
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px !important;
+  height: 400px;
+  background: linear-gradient(
+    88.47deg,
+    rgba(255, 205, 235, 0.49) 3.2%,
+    rgba(255, 230, 255, 0.49) 99.15%
+  );
+}
+.whatMakesUsDifferentContent {
+  margin-top: 60px !important;
+}
+.item2 {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  margin: 0;
+  padding: 0;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+.bg {
+  position: absolute;
+  width: 158px;
+  height: 158px;
+  margin: 0;
+  padding: 0;
+}
+.running {
+  width: 158px;
+  height: 158px;
+  border-radius: 100px;
+}
+.swmming {
+  width: 158px;
+  height: 158px;
+  border-radius: 100px;
+}
+.cycling {
+  width: 158px;
+  height: 158px;
+  border-radius: 100px;
+}
+.gymnastics {
+  width: 158px;
+  height: 158px;
+  border-radius: 100px;
+}
+.martialArts {
+  width: 158px;
+  height: 158px;
+  border-radius: 100px;
+}
+.shopByActivityText {
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-family: "DM Sans";
+  position: absolute;
+  color: white;
+  font-weight: 700;
+  margin-top: 110px;
+  z-index: 2;
+}
+.looks {
+  font-family: "DM Sans";
+  font-weight: bold;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.delPrice {
+  font-size: 12px;
+}
+.reviews {
+  font-size: 12px;
+}
+
+.imgTags {
+  position: absolute;
+  font-size: 11px;
+  color: white;
+  margin-left: 15px;
+  margin-top: 8px;
+}
+.new {
+  border-radius: 2px;
+  background-color: rgba(0, 157, 255, 0.871);
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+}
+.discount {
+  border-radius: 2px;
+  background: linear-gradient(
+    94.41deg,
+    #fa6c58 8.77%,
+    #fa9158 99.95%,
+    #fa9258 99.96%,
+    #fa9258 99.97%,
+    rgba(250, 108, 88, 0) 99.98%,
+    #fa6c58 99.99%
+  );
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 16px;
+}
+.myBtn {
+  width: 250px !important;
+  position: absolute;
+  color: white;
+  background-color: black;
+  font-family: "DM Sans";
+  margin-top: 290px;
+  margin-left: 8px;
+}
+.menu {
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 215px;
+}
+.heart {
+  width: 35px;
+}
+.eyeDiv {
+  position: relative;
+}
+.eye {
+  width: 12px;
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 12px;
+}
+.bgMenu {
+  width: 35px;
+}
+.viewText {
+  position: absolute;
+  margin-left: 130px !important;
+  margin-top: 50px;
+}
+.promoDiv {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  color: white;
+  width: 100%;
+  height: 300px;
+  background-color: #121212;
+}
+.footerInner {
+  display: flex;
+  width: 75%;
+  height: 240px;
+  margin-top: 60px !important;
+}
+
+.form-label {
+  color: white;
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+}
+
+.footerDiv1 {
+  width: 35%;
+  margin-right: 50px;
+}
+.footerDiv2 {
+  display: flex;
+  justify-content: space-between;
+  width: 65%;
+}
+.footerHeading {
+  font-size: 14px;
+  font-family: "DM Sans";
+  margin-bottom: 10px;
+}
+.footertext {
+  font-size: 12px;
+  font-family: "Work Sans";
+  font-weight: 700;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.footerBottom {
+  position: absolute;
+  margin-top: 200px;
+}
