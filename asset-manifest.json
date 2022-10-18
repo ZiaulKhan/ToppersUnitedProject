@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ToppersUnitedProject/static/css/main.b8275232.css",
+    "main.js": "/ToppersUnitedProject/static/js/main.01040e57.js",
+    "static/media/promo1.png": "/ToppersUnitedProject/static/media/promo1.2277994a644d16634d60.png",
+    "static/media/sportsBanner.png": "/ToppersUnitedProject/static/media/sportsBanner.6313dd892ea87682f953.png",
+    "static/media/cricket.png": "/ToppersUnitedProject/static/media/cricket.3e9fa32da044d07cbcc5.png",
+    "static/media/promo2.png": "/ToppersUnitedProject/static/media/promo2.f8e6bccbbf82dc9296eb.png",
+    "static/media/soccer.png": "/ToppersUnitedProject/static/media/soccer.c7eb230bcb07bc91bb19.png",
+    "static/media/basketball.png": "/ToppersUnitedProject/static/media/basketball.cd2ea692a8e59626a358.png",
+    "static/media/bg3.png": "/ToppersUnitedProject/static/media/bg3.a4f098c92fae055199e6.png",
+    "static/media/bg4.png": "/ToppersUnitedProject/static/media/bg4.3870b8384def11eba5c0.png",
+    "static/media/punching.png": "/ToppersUnitedProject/static/media/punching.4450883fa969348da80f.png",
+    "static/media/bg2.png": "/ToppersUnitedProject/static/media/bg2.b73e9a4e0fe51bf26f0d.png",
+    "static/media/bg1.png": "/ToppersUnitedProject/static/media/bg1.12c036f4db2f69d79832.png",
+    "static/media/pic5.png": "/ToppersUnitedProject/static/media/pic5.2f6167ed2db063e0fb3c.png",
+    "static/media/pic3.png": "/ToppersUnitedProject/static/media/pic3.b57157ca7e529603ab8c.png",
+    "static/media/pic2.png": "/ToppersUnitedProject/static/media/pic2.d064c39efc0fc90058cc.png",
+    "static/media/pic1.png": "/ToppersUnitedProject/static/media/pic1.c8ca701de16a35da5b44.png",
+    "static/media/gloves.png": "/ToppersUnitedProject/static/media/gloves.82092726ebe722d90fcc.png",
+    "static/media/bag.png": "/ToppersUnitedProject/static/media/bag.03bdd90bdfaeec6e8bd3.png",
+    "static/media/pic4.png": "/ToppersUnitedProject/static/media/pic4.b0a9ca7976ba95a7bb1c.png",
+    "static/media/socks.png": "/ToppersUnitedProject/static/media/socks.7e5be674f1e9534c90a5.png",
+    "static/media/ball.png": "/ToppersUnitedProject/static/media/ball.2deafb5ada7af4fe20a3.png",
+    "static/media/shoes.png": "/ToppersUnitedProject/static/media/shoes.91573594734d5fe18dcf.png",
+    "static/media/bg.png": "/ToppersUnitedProject/static/media/bg.abb2ed464658e6aad99b.png",
+    "static/media/bottle.png": "/ToppersUnitedProject/static/media/bottle.a228556ae639265e4e12.png",
+    "index.html": "/ToppersUnitedProject/index.html",
+    "main.b8275232.css.map": "/ToppersUnitedProject/static/css/main.b8275232.css.map",
+    "main.01040e57.js.map": "/ToppersUnitedProject/static/js/main.01040e57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8275232.css",
+    "static/js/main.01040e57.js"
+  ]
+}
